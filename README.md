@@ -1,13 +1,13 @@
 # AI Pacman and Ghost Agents
 
-**VIEW THIS SITE FOR MORE DETAILS:** [riyapatel13.github.io/Pacman-AI/](https://riyapatel13.github.io/Pacman-AI/)
+**VIEW THIS SITE FOR MORE DETAILS:**
 
 As a final project in the Artificial Intelligence course at Stanford Univerity's Precollegiate Studies, my team and I created the most optimal Pacman and ghost agents (after much trial and error). The details of the implementations can be found below.
 
 Team Members:
-* Riya Patel
-* Ziz Cheng
-* Charles Sun
+* Smriti Dubey(RA325)
+* Rayyah Ajmal(RA334)
+
 
 ## Implementation Details
 
